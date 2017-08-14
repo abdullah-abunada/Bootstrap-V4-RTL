@@ -2,13 +2,6 @@
 <html lang="fa" dir="rtl">
 <head>
     <meta charset="UTF-8">
-    <style>
-        body{
-            direction: rtl;
-            text-align: right;
-            line-height: 2;
-        }
-    </style>
 </head>
 <body>
 
