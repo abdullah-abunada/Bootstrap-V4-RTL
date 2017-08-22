@@ -19,5 +19,10 @@
 <p>ممنونیم نسخه ما را انتخاب کردید.</p>
 <h4>با احترام اشکان کیانی</h4>
 <a href="https://ashkankiani.ir/">Website Ashkan Kiani</a>
+
+
+<h4>تغییرات جدید</h4>
+<p>در تاریخ 1396/05/30 فایل جدید bootstrap-reboot به سند اضافه شد.</p>
+
 </body>
 </html>
